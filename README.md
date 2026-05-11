@@ -19,4 +19,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/14wHe05DKOQcmUYW-dYgqd-
 3. Run the app:
    `npm run dev`
  ` npm run build`
+` npm intstall`
    
